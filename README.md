@@ -22,3 +22,6 @@ Get your package from [Download](https://github.com/a-atalla/tuxcut/releases) se
 - run the server with root priviliages `sudo env_name/bin/python3 server/tuxcutd.py`.
 - run the gui `env_name/python3 client/tuxcut.py`.
 - To build packages you need to install [FPM](https://github.com/jordansissel/fpm)  then run the script `build.sh`
+
+4. Run in terminal : "systemctl start tuxcutd"
+https://cache.nulled.to/28a2c977be85cf26992c4f4aeb842eae521b8e3e/?url=https%3A%2F%2Fi.postimg.cc%2F1tP4nd6B%2FCapture-d-cran-40.png
